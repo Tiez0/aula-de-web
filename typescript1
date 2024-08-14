@@ -35,7 +35,9 @@ const area = (pi2*r2*r2)
 print ("a area do circulo eh : "+ (area);
 //deu a mesma coisa por conta da funcao que foi escrita no fim da aula
 
-//fazer um programa que calcule a velocidade de um veiculo de acordo com a formula deltaS/deleteT 
+//fazer um programa que calcule a velocidade de um veiculo de acordo com a formula deltaS/deltaT
+//desafio: transformar esse programa numa unica funcao chamada calcular velocidade media 
+
 
 
 
