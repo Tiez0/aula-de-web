@@ -1,0 +1,39 @@
+  function print(qualquercoisa: any){
+    console.log (qualquercoisa);
+}
+/*
+const nome = "tiezo bumbum guloso";
+var idade = 0;
+idade = 18;
+
+console.log(nome)
+*/  
+
+//bunda peido pipi xixi 
+/*
+const numero = 2;
+if(numero % 2 == 0){
+    console.log ("o numero: " + numero + " é par");
+} else { 
+    console.log(" o numero: " + numero + " é impar");
+}*/
+
+/*
+//comprimento  do circulo - solucao 1 
+// formula= 2.pi.raio 
+//pi= constante 
+const raio = 10;
+const pi= 3.1415926535;
+console.log ("o comprimento do circulo é: "+ (2 * pi * raio));
+*/
+
+
+//area do circulo eh igual pi.r^2
+const r2 = 10
+const pi2 = 314159269535
+const area = (pi2*r2*r2)
+print ("a area do circulo eh : "+ (area);
+//deu a mesma coisa por conta da funcao que foi escrita no fim da aula
+
+
+
